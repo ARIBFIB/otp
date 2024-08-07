@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  font-family: sans-serif;
+}
+.otpInput{
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  text-align: center;
+  font-size: 1.2em;
 }
 
 .App-logo {
