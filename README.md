@@ -1,6 +1,16 @@
-# Getting Started with Create React App
-
+# otp - front End - Beginners
+## UseStates
+## UseEffects
+## Simple UI
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![image](https://github.com/user-attachments/assets/dee5aa00-b8b0-45eb-bab1-932933cacbf4)
+
+# Condition for Phone number Input
+![image](https://github.com/user-attachments/assets/2b339e6f-c095-4e81-a018-832722a6e831)
+
+# Otp
+![image](https://github.com/user-attachments/assets/d3513611-9d2f-4ad2-a1a6-44d96db57bfe)
 
 ## Available Scripts
 
